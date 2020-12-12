@@ -68,7 +68,7 @@ exports.DefaultOptions = {
     compress: false,
     properties: {
       $os: browser ? 'browser' : process.platform,
-      $browser: 'Discord iOS',
+      $browser: 'discord.js',
       $device: 'discord.js',
     },
     version: 6,
